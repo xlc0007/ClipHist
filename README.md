@@ -13,7 +13,7 @@ A tiny, privacy-friendly clipboard history tool for Windows. It keeps your **las
 
 ## Download
 
-Grab the latest build from the [Releases](https://github.com/YOUR_USERNAME/ClipHist/releases) page:
+Grab the latest build from the [Releases](https://github.com/xlc0007/ClipHist/releases) page:
 
 - `ClipHist_v1.0.0_win-x64.zip` — self-contained, no .NET runtime required.
 
